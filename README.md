@@ -1,4 +1,4 @@
-# https-github.com-Leonini46-mimo-vehicle-traction-control
+
 # MIMO Dynamic Systems Modeling & Traction Control Architecture
 
 ## 📌 Project Overview
